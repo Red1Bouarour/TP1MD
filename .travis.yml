@@ -3,5 +3,5 @@ script:
 - javac Test.java 
 - javac Code.java
 
-- echo "running test"
+- echo "running test vv"
 - java -ea Test
